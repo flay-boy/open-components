@@ -17,10 +17,14 @@
     "type": "git",
     "url": "git+https://github.com/flay-boy/open-components.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/flay-boy/open-components/issues"
-  }
+  },
+  "gitHead": "9b748123594652cd902c5fbb94f452c097d07f7e"
 }
