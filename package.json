@@ -1,0 +1,23 @@
+{
+  "name": "open-components",
+  "private": true,
+  "version": "1.0.0",
+  "description": "a open source sets of components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flay-boy/open-components.git"
+  },
+  "author": "yuexiang009@yeah.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/flay-boy/open-components/issues"
+  },
+  "homepage": "https://github.com/flay-boy/open-components#readme",
+  "devDependencies": {
+    "lerna": "^5.1.1"
+  }
+}
