@@ -1,0 +1,29 @@
+{
+  "name": "@open-components/utils",
+  "version": "0.0.2",
+  "description": "> TODO: description",
+  "author": "xiang yue <yuexiang009@yeah.com>",
+  "homepage": "https://github.com/flay-boy/open-components/tree/main/packages/utils#readme",
+  "license": "Apache-2.0",
+  "main": "lib/index",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flay-boy/open-components.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/flay-boy/open-components/issues"
+  }
+}
